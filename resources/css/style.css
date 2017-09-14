@@ -12,7 +12,16 @@ h1 {
 
 h2 {
   font-size: 32px;
+  font-family: Helvetica;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
 }
 
 .header {
